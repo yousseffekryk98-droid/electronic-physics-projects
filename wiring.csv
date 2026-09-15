@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+HC-SR04 TRIG,D9,—
+HC-SR04 ECHO,D10,—
+Servo signal,D3,—
+Servo VCC,external 5V,—
+grounds,common,GND
