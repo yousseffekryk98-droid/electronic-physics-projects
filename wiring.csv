@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MAX30102 SDA/SCL,I2C,A4/A5
+Temp sensor,input,D3/A0 depending sensor
+OLED SDA/SCL,I2C,A4/A5
+battery,regulated supply,board
