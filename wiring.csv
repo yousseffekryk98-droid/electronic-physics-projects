@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Relay IN1,digital out,GPIO26
+Relay IN2,digital out,GPIO27
+Relay VCC,5V,5V
+Relay GND,GND,GND
+demo loads,relay COM/NO,isolated low-voltage supply
