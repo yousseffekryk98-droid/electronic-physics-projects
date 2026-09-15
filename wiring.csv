@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+INA219 SDA/SCL,I2C,GPIO21/22
+Port enable driver,GPIO26,—
+Display,I2C/SPI,board
+PV,MPPT,battery/DC bus
+fused DC bus,USB-C PD/output module,—
+all low-voltage grounds,common as required,—
