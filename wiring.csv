@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+LDR divider,analog,A0
+Pot wiper,analog,A1
+Relay/MOSFET control,digital,D7
+low-voltage lamp,driver output,separate supply
