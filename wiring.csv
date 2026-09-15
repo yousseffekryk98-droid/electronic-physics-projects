@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+IR TX,digital out,D3 each robot
+IR RX,digital in,D2 each robot
+Motor driver inputs,D5-D8,each Arduino
+grounds,common per robot,local supply
