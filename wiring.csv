@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Mic L AO,analog,A0
+Mic R AO,analog,A1
+Servo signal,PWM,D9
+optional motor driver IN1/IN2,D5/D6,Arduino
