@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Relay IN,GPIO26,—
+Button,GPIO27 INPUT_PULLUP,—
+LED,GPIO25 via 220R,—
+demo supply +,relay COM,—
+relay NO,12V demo load +,—
+load -,demo supply -,—
