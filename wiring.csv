@@ -1,0 +1,9 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+RC522 SDA/SS,GPIO5,—
+SCK,GPIO18,—
+MOSI,GPIO23,—
+MISO,GPIO19,—
+RST,GPIO27,—
+Buzzer,GPIO25,—
+Green LED,GPIO32,—
+Red LED,GPIO33,—
