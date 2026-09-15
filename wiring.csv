@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+BMP SDA/SCL,I2C,A4/A5
+DHT DATA,digital,D3
+SD CS,SPI CS,D10
+SD MOSI/MISO/SCK,SPI,D11/D12/D13
