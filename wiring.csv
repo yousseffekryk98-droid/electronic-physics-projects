@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+HC-05 TX,SoftwareSerial RX,D2
+HC-05 RX,SoftwareSerial TX,D3 via divider
+Relay IN1,D7,—
+Relay IN2,D8,—
+relay contacts,low-voltage demo load,separate supply
