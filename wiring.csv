@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Servo signal,GPIO26,—
+Button,GPIO27 INPUT_PULLUP,—
+Green LED,GPIO32,—
+Red LED,GPIO33,—
+servo power,separate regulated 5V,common GND
