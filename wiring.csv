@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Camera,CSI/USB,Pi camera port or USB
+Red LED,GPIO17,330R to GND
+Yellow LED,GPIO27,330R to GND
+Green LED,GPIO22,330R to GND
