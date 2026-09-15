@@ -1,0 +1,3 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Camera,CSI/USB,Pi
+optional OLED SDA/SCL,I2C,GPIO2/3
