@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Camera,CSI/USB,Pi
+Ultrasonic TRIG,GPIO23,Pi
+Ultrasonic ECHO,GPIO24,through divider
+PCA9685 SDA/SCL,I2C,GPIO2/3
+Servos,PCA9685 channels,external 5V
