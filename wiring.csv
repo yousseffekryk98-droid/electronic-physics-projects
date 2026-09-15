@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+LDR TL/TR/BL/BR,analog,A0/A1/A2/A3 via dividers
+Pan servo,PWM,D9
+Tilt servo,PWM,D10
+panel,mechanical mount,pan-tilt
