@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+TRIG,digital out,GPIO5
+ECHO,digital in,GPIO18 through divider if 5V
+Green LED,GPIO25 via 220R,—
+Red LED,GPIO26 via 220R,—
