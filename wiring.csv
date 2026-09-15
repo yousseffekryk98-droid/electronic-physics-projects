@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+DHT22 DATA,digital in,D3
+CO2 TX/RX,serial,D10/D11 SoftwareSerial
+Soil AO,analog,A0
+Fan driver,digital,D6
+Pump driver,digital,D7
+LCD SDA/SCL,I2C,A4/A5
