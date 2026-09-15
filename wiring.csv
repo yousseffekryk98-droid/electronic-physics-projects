@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Line sensors L/C/R,analog or digital,A0/A1/A2
+Motor driver IN1-IN4,D5-D8,—
+PWM enables,D9/D10,—
+battery,motor driver,motors
