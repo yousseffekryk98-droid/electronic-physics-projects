@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MPU6050 SDA/SCL,I2C,GPIO21/22
+Cancel button,GPIO27 INPUT_PULLUP,—
+Buzzer,GPIO25,—
+GPS TX/RX,UART,GPIO16/17
