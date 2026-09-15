@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+CO2 TX/RX,serial,D10/D11
+LDR divider,analog,A0
+DHT22 DATA,digital,D3
+Fan driver,digital,D6
+LCD SDA/SCL,I2C,A4/A5
