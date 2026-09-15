@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+TX coil,oscillator,low-voltage driver
+RX coil,rectifier/filter,load
+INA219,load path,I2C A4/A5
+Arduino,USB,logging PC
