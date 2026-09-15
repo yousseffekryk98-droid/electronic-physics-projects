@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MAX4466 OUT,ADC,GPIO34
+Button,GPIO27 INPUT_PULLUP,—
+OLED SDA/SCL,I2C,GPIO21/22
+SD CS,SPI,GPIO5
