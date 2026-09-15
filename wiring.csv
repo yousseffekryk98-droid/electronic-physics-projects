@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+DHT DATA,D3,—
+Fan driver gate/input,D6,—
+Fan,external supply,driver
+Pot wiper,A0 optional,—
+grounds,common,GND
