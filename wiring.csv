@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+HC-SR04 TRIG,digital out,D9
+HC-SR04 ECHO,digital in,D10
+Flow pulse,interrupt,D2
+Leak DO,digital in,D4
+Buzzer,digital out,D8
+LCD SDA/SCL,I2C,A4/A5
