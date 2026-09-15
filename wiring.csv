@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Pickup coil,op-amp input,conditioned analog signal
+Op-amp output,ADC,A0
+OLED SDA/SCL,I2C,A4/A5
+clamp diodes,ADC rail protection,5V/GND
