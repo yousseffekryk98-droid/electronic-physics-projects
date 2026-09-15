@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Button,digital in,D2 INPUT_PULLUP
+Vehicle R/Y/G,D3/D4/D5,—
+Pedestrian R/G,D6/D7,—
+Buzzer,D8,—
+7-segment module,digital/I2C,remaining pins
