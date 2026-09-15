@@ -1,0 +1,8 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+HC-05 TX,SoftwareSerial RX,D2
+HC-05 RX,SoftwareSerial TX,D3 via divider
+Base servo,D5,—
+Shoulder,D6,—
+Elbow,D9,—
+Gripper,D10,—
+servo power,external 5V,common GND
