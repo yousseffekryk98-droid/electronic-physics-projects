@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+PIR OUT,digital in,GPIO13
+SIM800L TX,RX,GPIO16 via suitable serial
+SIM800L RX,TX,GPIO17 with level compatibility
+Camera,on-board,ESP32-CAM
+grounds,GND,common
