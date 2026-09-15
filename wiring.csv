@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MQ135 AO,ADC,GPIO34 via divider
+MQ7 AO,ADC,GPIO35 via divider
+OLED SDA,I2C SDA,GPIO21
+OLED SCL,I2C SCL,GPIO22
+Buzzer +,digital out,GPIO25
+all grounds,GND,GND
