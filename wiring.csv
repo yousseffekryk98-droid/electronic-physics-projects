@@ -1,0 +1,8 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+HC-SR04 TRIG,D9,Arduino
+HC-SR04 ECHO,D10,Arduino
+Servo signal,D3,Arduino
+Motor driver IN1/IN2,D5/D6,—
+IN3/IN4,D7/D8,—
+ENA/ENB,PWM,D11/D12 or jumpers
+battery,motor driver,motors
