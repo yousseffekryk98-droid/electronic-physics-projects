@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Flame DO,digital in,D2
+Temp signal,sensor input,D3/A0 depending module
+Buzzer +,digital out,D8
+Servo signal,PWM,D9
+Servo power,5V external,common GND
