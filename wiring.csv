@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+RTC SDA/SCL,I2C,GPIO21/22
+OLED SDA/SCL,I2C,GPIO21/22
+Servo(s),PWM,GPIO25/26/27
+HX711 DT,SDA-like data,GPIO32
+HX711 SCK,clock,GPIO33
+Buzzer,GPIO13,—
