@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+PIR OUT,D2,—
+Buzzer,D8,—
+LED,D9 via 220R,—
+sensor VCC,5V,—
+grounds,GND,—
