@@ -1,0 +1,8 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+DS18B20 DATA,1-Wire,GPIO4 with 4.7k pull-up
+RC522 SDA/SS,SPI SS,GPIO5
+RC522 SCK,SPI SCK,GPIO18
+RC522 MOSI,SPI MOSI,GPIO23
+RC522 MISO,SPI MISO,GPIO19
+RC522 RST,RST,GPIO27
+Reed switch,digital in,GPIO32 with pull-up
