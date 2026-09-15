@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MPU6050 SDA/SCL,I2C,A4/A5
+Motor driver AIN1/AIN2,D7/D8,—
+BIN1/BIN2,D9/D10,—
+PWMA/PWMB,PWM,D5/D6
+Encoders,interrupt pins,D2/D3
