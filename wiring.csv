@@ -1,0 +1,8 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Solenoid +,supply +,5/12V
+Solenoid -,MOSFET drain,driver
+MOSFET gate,digital out,GPIO26
+Flyback diode,across solenoid,reverse-biased
+Door sensor,digital in,GPIO27 pull-up
+Key switch,digital in,GPIO25
+GPS TX/RX,UART,GPIO16/17
