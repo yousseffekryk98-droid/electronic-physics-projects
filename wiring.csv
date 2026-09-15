@@ -1,0 +1,10 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+INA219 VCC,5V,5V
+INA219 GND,GND,GND
+INA219 SDA,SDA,A4
+INA219 SCL,SCL,A5
+LCD SDA,SDA,A4
+LCD SCL,SCL,A5
+Solar +,VIN+,INA219 VIN+
+INA219 VIN-,Load +,load
+Solar -,GND,common GND
