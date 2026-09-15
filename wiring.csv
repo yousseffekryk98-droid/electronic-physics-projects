@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Probe low,digital/analog sense,A0
+Probe mid,A1,Arduino
+Probe high,A2,Arduino
+reference probe,GND through suitable resistor,GND
+LEDs,D4-D7,220R to GND
+Buzzer,D8,digital out
