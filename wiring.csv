@@ -1,0 +1,8 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MQ-2 AO,ADC,GPIO34 via divider if required
+DHT22 DATA,GPIO4,—
+Flame DO,GPIO27,—
+Buzzer,GPIO25,—
+Strobe,GPIO26,—
+Relay,GPIO33,—
+display,I2C,GPIO21/22
