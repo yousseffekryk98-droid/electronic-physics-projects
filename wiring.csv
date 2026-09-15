@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Proximity OUT,digital/ADC,GPIO27
+MOSFET gate,digital out,GPIO26
+Solenoid,12V through MOSFET,driver
+Flyback diode,across valve,reverse-biased
+Flow pulse,interrupt,GPIO25
+grounds,common low-voltage ground,GND
