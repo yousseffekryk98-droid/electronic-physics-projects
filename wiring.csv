@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+LDR divider,analog,A0
+PIR OUT,digital,D2
+MOSFET gate,PWM,D9
+LED lamp,12V via MOSFET,battery
+panel,charge controller,battery
