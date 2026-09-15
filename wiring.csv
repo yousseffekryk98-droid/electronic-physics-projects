@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+Moisture AO,analog,A0
+Pump driver,digital,D7
+Override button,digital in,D2 with INPUT_PULLUP
+LCD SDA/SCL,I2C,A4/A5
+pump,external supply,driver
