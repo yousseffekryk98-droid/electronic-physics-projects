@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+IR sensor 1,interrupt,D2
+IR sensor 2,interrupt,D3
+RGB R/G/B,D9/D10/D11 via resistors,—
+LCD SDA/SCL,I2C,A4/A5
+Buzzer,D8,—
