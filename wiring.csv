@@ -1,0 +1,7 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+EEG TX,Arduino RX,D2 through SoftwareSerial/appropriate level
+EEG GND,GND,GND
+LED anode,digital out,D9 via 220R
+Motor driver IN1,digital out,D5
+Motor driver IN2,digital out,D6
+E-stop,motor enable line,series hardware cutoff
