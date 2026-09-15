@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+LED DIN,GPIO18 via 330R/level shifter,—
+MAX4466 OUT,ADC,GPIO34
+Touch buttons,GPIO27/32/33,—
+LED 5V,external PSU,—
+grounds,common,GND
