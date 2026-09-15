@@ -1,0 +1,5 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+PIR OUT,digital in,D2/ESP32 GPIO27
+Door reed,digital in,D3/GPIO26 with pull-up
+Buzzer,digital out,D8/GPIO25
+LED,digital out,D9/GPIO2
