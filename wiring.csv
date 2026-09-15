@@ -1,0 +1,6 @@
+component_or_node,signal_or_connection,board_pin_or_destination
+MAX30102 SDA/SCL,I2C,A4/A5
+OLED SDA/SCL,I2C,A4/A5
+Buzzer,D7,—
+SD CS,D10,—
+SD MOSI/MISO/SCK,D11/D12/D13,—
